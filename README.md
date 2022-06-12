@@ -1,4 +1,4 @@
-# go_mongo_simple_rest_api
+# Go MongoDb Simple Rest Api
 
 This project is a Go REST API project created during udemy.
 
@@ -9,10 +9,8 @@ Using the MongoDB database, pages containing simple data insertion, deletion and
 
 ## Tech
 
-bootcamp_flask uses a number of open source projects to work properly:
-
 - REST API
-- MangoDB
+- MongoDB
 - Go
 
 
